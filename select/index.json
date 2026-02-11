@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ゲット・オン・ユア・ブーツ",
+  "base_artist": "U2",
+  "createdAt": "2026-02-11T06:53:55.476610Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get On Your Boots",
+      "artist": "U2",
+      "has_synced": false,
+      "path": "select/pl_01_Get_On_Your_Boots_U2.txt"
+    }
+  ]
+}
